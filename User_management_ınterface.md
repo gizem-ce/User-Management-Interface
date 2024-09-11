@@ -2,7 +2,7 @@
 # User Management Interface Specification
 
 ## 1. Overview
-The **User Management** screen's user interface (UI), which allows administrators to create, change, enable, disable, and assign roles to users, is described in this article.
+The **User Management** screen's user interface (UI), which allows administrators to create, enable, disable, and assign roles to users, is described in this article.
 
 ## 2. Initial View
 The list of current users is shown in a table format when the user initially accesses the website.
